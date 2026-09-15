@@ -30,7 +30,11 @@ The WHOIS lookup identified:
 WHOIS provides publicly available domain-registration information that can be useful during the reconnaissance phase of an authorized security assessment. It can reveal information about registrars, name servers, registration dates, and infrastructure.
 
 ## Evidence
-The terminal screenshot and complete WHOIS output are included as evidence for this task.
+
+The following screenshot shows the WHOIS lookup performed in Kali Linux:
+
+![WHOIS lookup result](whois-result.jpg)
+
 
 ## Disclaimer
 This exercise was performed as part of an authorized cybersecurity training lab for educational purposes.
